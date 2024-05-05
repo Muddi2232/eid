@@ -1,0 +1,42 @@
+
+body{
+    background-image: url(https://media.istockphoto.com/id/1545222556/photo/agriculture-cow-and-care-with-hand-of-farmer-for-sustainability-milk-production-and-nature-in.webp?b=1&s=170667a&w=0&k=20&c=ZqI-nL5J4DL13ZkjmHWx4jiIGYBDTR1BCikYWxmF-6c=);
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+
+
+h1{
+    text-align: center;
+    margin-top: 50px;
+    padding-left: 200px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding-left: 200px;
+    flex-wrap: wrap;
+}
+
+.box{
+    height: 100px;
+    min-width: 100px;
+    padding: 5px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    flex-direction: column;
+}
+
+.heading{
+    font-size: 20px;
+    margin-bottom: 6px;
+}
